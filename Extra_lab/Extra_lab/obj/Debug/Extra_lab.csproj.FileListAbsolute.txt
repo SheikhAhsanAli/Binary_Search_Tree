@@ -1,0 +1,6 @@
+c:\users\dua comunication\documents\visual studio 2015\Projects\Extra_lab\Extra_lab\bin\Debug\Extra_lab.exe.config
+c:\users\dua comunication\documents\visual studio 2015\Projects\Extra_lab\Extra_lab\bin\Debug\Extra_lab.exe
+c:\users\dua comunication\documents\visual studio 2015\Projects\Extra_lab\Extra_lab\bin\Debug\Extra_lab.pdb
+c:\users\dua comunication\documents\visual studio 2015\Projects\Extra_lab\Extra_lab\obj\Debug\Extra_lab.csprojResolveAssemblyReference.cache
+c:\users\dua comunication\documents\visual studio 2015\Projects\Extra_lab\Extra_lab\obj\Debug\Extra_lab.exe
+c:\users\dua comunication\documents\visual studio 2015\Projects\Extra_lab\Extra_lab\obj\Debug\Extra_lab.pdb
